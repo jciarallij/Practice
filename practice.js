@@ -52,8 +52,11 @@ var diffArray = [
 function grabQuestion(element) {
 var randomNumQuestion = Math.floor((Math.random) * 10);
 var randomNumStudent = Math.floor((Math.random) * 10);
-for (i=0; i < )
-console.log(diffArray[i] + questArray[i] + classNames[i] + " ?");
+
+
+
+// for (i=0; i < )
+// console.log(diffArray[i] + questArray[i] + classNames[i] + " ?");
 }
 
 
